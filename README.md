@@ -1,17 +1,11 @@
 # NEAT Snake Oyunu / NEAT Snake Game
 
-## Türkçe
-Bu proje, NEAT algoritması ile Snake oyunu oynayan bir yapay zeka geliştirmeyi amaçlar. Python, **pygame** ve **NEAT-Python** kütüphaneleri kullanılmıştır.
+NEAT, sinir ağlarını evrimsel algoritmalarla optimize eden bir yöntemdir. Bu projede, NEAT algoritması yılanın yiyeceğe ulaşmak ve hayatta kalmak için en iyi hareketleri öğrenmesini sağlar. Yılan, başlangıçta rastgele hareket eder ve zamanla yiyeceğe daha hızlı ulaşmayı öğrenir.
 
-### Gereksinimler
-- Python 3.7+
-- pygame
-- neat-python
-- scipy
+---
 
-Kurulum:
-```bash
-pip install pygame neat-python scipy
-```
+NEAT is a method for optimizing neural networks using evolutionary algorithms. In this project, the NEAT algorithm teaches the snake to make the best moves to reach food and survive. Initially, the snake moves randomly, but over time, it learns to reach the food more efficiently.
+
+---
 
 [Screencast from 12-20-24 08:53:39.webm](https://github.com/user-attachments/assets/dc609ef6-eba4-4735-bc2b-a2cf3adc81bb)
